@@ -1,0 +1,21 @@
+primitve/ value types           referance types
+                                 
+string                          objects
+number                          array
+boolean                         function
+undefined
+null
+
+                 languages
+static 
+(statically-typed)      string name = 'john';
+  this terms cannot be changed once done 
+
+dynamic
+(dynamic-typed)         let name = 'john';
+   this can be changed whenever you want to 
+
+
+                 key words
+let, typeof, console.log(xyz),  isApproved, firstName,
+selectedColor, undefined, null, function, return, 
